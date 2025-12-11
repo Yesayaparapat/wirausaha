@@ -1,9 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  images: {
-    unoptimized: true,
-  },
+  // Vercel akan handle Next.js secara native, tidak perlu static export
 }
 
 module.exports = nextConfig
