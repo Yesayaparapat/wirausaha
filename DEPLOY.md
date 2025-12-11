@@ -1,5 +1,11 @@
 # Panduan Deploy ke Vercel
 
+## 🆓 100% GRATIS!
+
+Vercel **benar-benar GRATIS** untuk personal projects! Tidak ada biaya tersembunyi.
+
+Lihat [HOSTING-GRATIS.md](./HOSTING-GRATIS.md) untuk semua opsi hosting gratis.
+
 ## ✅ Konfirmasi: Website Siap Deploy!
 
 Website ini **100% siap** untuk deploy di Vercel dengan fitur:
